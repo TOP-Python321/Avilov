@@ -7,7 +7,7 @@ elif ord(num1[1]) == ord(num2[1]) + 1 or ord(num1[1]) == ord(num2[1]) - 1:
     print('Да')
 else:
     print('Нет')
-    
+
 
 # q3
 # f2
@@ -15,4 +15,4 @@ else:
 
 # c6
 # d4
-# Нет    
+# Нет

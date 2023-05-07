@@ -10,7 +10,8 @@ if num1 > 0 and num2 < 0 and num3 > 0:
     print(num1 + num3)    
 if num1 < 0 and num2 > 0 and num3 > 0:
     print(num2 + num3)    
-    
+
+
 # Первое число: 2
 # Второе число: -3
 # Третье число: 2

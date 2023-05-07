@@ -5,7 +5,7 @@ if num1[0] == num2[0] or num1[1] == num2[1]:
     print('Да')
 else:
     print('Нет')
-    
+
 
 # a2
 # a4

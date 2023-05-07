@@ -8,11 +8,12 @@ if box1 == box2:
     print('Да')
 else:
     print('Нет')
-    
+
+
 # a2
 # a4
 # Да
 
 # a1
 # a2
-# Нет    
+# Нет
